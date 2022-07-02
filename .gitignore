@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+yarn.lock
+dist
+.history
+.env
+yarn-error.log
+coverage
+db-sql/mysql-structure
+db-sql/my-files
+.DS_STORE
