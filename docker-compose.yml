@@ -2,7 +2,7 @@ version: '3'
 
 services:
   cloud-storage:
-    image: buuhvprojects/cloud-storage:1.3.0
+    image: buuhvprojects/cloud-storage:1.6.0
     container_name: cloud-storage
     restart: on-failure
     volumes:
